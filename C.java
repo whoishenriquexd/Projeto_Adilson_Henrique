@@ -7,7 +7,7 @@ public class C {
     private string C1;
     private int C2;
     
-    public B(string mC1, int mC2){
+    public C(string mC1, int mC2){
         this.C1 = mC1;
         this.C2 = mC2;
     }
