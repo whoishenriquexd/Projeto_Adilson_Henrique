@@ -35,5 +35,9 @@ public class D {
     	System.out.println("MD2");
   	}
   	
+  	public void MD3(){
+    	System.out.println("MD3");
+  	}
+  	
 }
 
